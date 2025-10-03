@@ -1,6 +1,6 @@
-# Hyezzcraxksz | Founder of Hyexz Framework  
-GrayHat | “Tools don’t hack people. Hackers do.”  
-Real-world attacks > lab simulations
+# Hyezzcraxksz | Founder of Server Side  
+Former GrayHat | “Tools are Uploaded in some of my github's.”  
+Real-world > lab simulations
 ![Linux](https://tenor.com/ceZLtzHNcdv.gif)
 ---
 
@@ -15,7 +15,5 @@ Real-world attacks > lab simulations
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-CTF player | Brutebytes member  
-Telegram: @Hyezzcraxksz  
-Status: Active. Tracking. Hunting.
+Telegram: @Hyezzcraxksz
+Check out my other Github's all about Documentation, Analyzation, Programming??.
