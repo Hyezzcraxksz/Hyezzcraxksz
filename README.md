@@ -1,4 +1,4 @@
-# Hyezzcraxksz | Founder of Server Side  
+# Hyezzcraxksz | Founder of EncryptedSec  
 Former GrayHat | “Tools are Uploaded in some of my github's.”  
 Real-world > lab simulations
 ![Linux](https://tenor.com/ceZLtzHNcdv.gif)
